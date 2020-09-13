@@ -26,4 +26,6 @@ def equation_du_second_degre(a, b, c):
         return x0
     else:
         return 'l\'equation n\'admet aucune  solution dans R'
-print(equation_du_second_degre(a=1,b=3,c=10))
+
+    
+
